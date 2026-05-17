@@ -17,7 +17,7 @@
 - **机器学习 / 深度学习**：TensorFlow、PyTorch、scikit-learn  
 - **自然语言处理 (NLP)**：Transformers、spaCy、NLTK  
 - **知识增强型 AI (RAG)**：LangChain、FAISS、Weaviate、Chroma  
-- **多模态 AI**：OpenAI API、Hugging Face 模型  
+- **多模态 AI**：OpenAI API、Ollama 本地模型  
 
 ### 后端开发
 
