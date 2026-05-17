@@ -19,7 +19,7 @@
 - **知识增强型 AI (RAG)**：LangChain、FAISS、Weaviate、Chroma  
 - **多模态 AI**：OpenAI API、Ollama 本地模型  
 
-### ### 前端开发、后端开发
+### 前端开发、后端开发
 
 ---
 
